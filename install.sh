@@ -5,7 +5,7 @@
 
 set -e
 
-DOTFILES_REPO="https://github.com/YOUR_USERNAME/dotfiles.git"  # Update this after pushing to GitHub
+DOTFILES_REPO="https://github.com/cjnemes/dotfiles.git"
 DOTFILES_DIR="$HOME/dotfiles"
 
 echo "🚀 Installing dotfiles and dependencies..."
