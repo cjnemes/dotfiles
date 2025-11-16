@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.swp
+*.swo
+*~
+.*.sw[a-z]
+
+# IDE
+.vscode/
+.idea/
+
+# Backups
+*.backup
+*.bak
+
+# Local testing
+test_*
+scratch/

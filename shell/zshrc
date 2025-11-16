@@ -1,0 +1,13 @@
+
+# Created by `pipx` on 2025-08-29 16:32:51
+export PATH="$PATH:/Users/chris/.local/bin"
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/chris/.lmstudio/bin"
+# End of LM Studio CLI section
+
+# Zoxide - smarter cd command
+eval "$(zoxide init zsh)"
+
+# fzf - fuzzy finder
+eval "$(fzf --zsh)"
