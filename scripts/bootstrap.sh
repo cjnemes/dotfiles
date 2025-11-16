@@ -43,6 +43,9 @@ create_symlink "$DOTFILES_DIR/docs/sessionx-guide.md" "$HOME/.config/tmux/sessio
 # Shell configs
 create_symlink "$DOTFILES_DIR/shell/zshrc" "$HOME/.zshrc"
 
+# Ghostty config
+create_symlink "$DOTFILES_DIR/ghostty/config" "$HOME/Library/Application Support/com.mitchellh.ghostty/config"
+
 echo ""
 echo "✅ Symlinks created!"
 
